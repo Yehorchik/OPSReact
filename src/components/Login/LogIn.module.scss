@@ -1,0 +1,22 @@
+.logInContainer {
+    background: #FFFFFF;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    width: 30%;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px 40px 15px 40px;
+}
+
+.linkContainer {
+    position: relative;
+    display: flex;
+    margin-top: 5px;
+    justify-content: space-between;
+}
